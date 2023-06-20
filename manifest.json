@@ -3,7 +3,7 @@
 	"name": "Get Timed",
 	"icons": [
 		{
-			"src": "/GetTimedGetTimed/images/48.png",
+			"src": "/GetTimed/images/48.png",
 			"type": "image/png",
 			"sizes": "48x48",
 			"purpose": "any maskable"
@@ -45,9 +45,9 @@
 			"purpose": "any maskable"
 		}
 	],
-	"start_url": "/GetTimed",
+	"start_url": "/GetTimed/",
 	"background_color": "#decade",
 	"display": "standalone",
-	"scope": "/GetTimed",
+	"scope": "/GetTimed/",
 	"theme_color": "#decade"
 }
