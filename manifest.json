@@ -1,6 +1,6 @@
 {
-	"short_name": "My App",
-	"name": "My Progressive Web App",
+	"short_name": "Get Timed",
+	"name": "Get Timed",
 	"icons": [
 		{
 			"src": "/images/maskable_icon_x48.png",
@@ -46,8 +46,8 @@
 		}
 	],
 	"start_url": "/",
-	"background_color": "#3367D6",
+	"background_color": "#decade",
 	"display": "standalone",
 	"scope": "/",
-	"theme_color": "#3367D6"
+	"theme_color": "#decade"
 }
